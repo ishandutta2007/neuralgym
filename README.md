@@ -13,4 +13,4 @@ Due to rapid/messy development and stability concerns, currently only limited mo
 
 ## Installation
 
-`pip install git+https://github.com/JiahuiYu/neuralgym`
+`pip install git+https://github.com/ishandutta2007/neuralgym`

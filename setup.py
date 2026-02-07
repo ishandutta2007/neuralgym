@@ -29,7 +29,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/JiahuiYu/neuralgym',
+    url='https://github.com/ishandutta2007/neuralgym',
 
     # Author details
     author='Jiahui Yu',
